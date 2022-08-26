@@ -18,7 +18,7 @@
 
 <br>
 
- ## Deploy Link [Paytm India](https://paytmindia.netlify.app/)
+ # Deploy Link [Paytm India](https://paytmindia.netlify.app/)
 
 <br>
 
