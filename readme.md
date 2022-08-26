@@ -48,6 +48,6 @@
 
 <img align="left" alt="Github" width="28px" src="./assets/findcoder.svg"> &nbsp; [Fincoder](https://www.findcoder.io/u/piyushbhatt)
 
-<img align="left" alt="Github"  src="./assets/icons8-instagram-28.png"> &nbsp; [Instagram](https://www.findcoder.io/u/piyushbhatt)
+<img align="left" alt="Github"  src="./assets/icons8-instagram-28.png"> &nbsp; [Instagram](https://www.instagram.com/piyush_11_11/)
 
 
