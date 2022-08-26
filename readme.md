@@ -16,7 +16,7 @@
 
 <img align="left" alt="Tailwind CSS" src="./assets/icons8-tailwind-css-28.png"> `Tailwind CSS`
 
- # Deploy Link [Paytm India](https://paytmindia.netlify.app/)
+ ## Deploy Link [Paytm India](https://paytmindia.netlify.app/)
 
 # Key Features
 - Clean User Interface.
