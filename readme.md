@@ -5,7 +5,7 @@
  
 
 ### Project Description
-`Paytm.com` is cloned in this project.Based on HTML and Tailwind CSS, this is a fully responsive clone of Paytm.com.
+`Paytm.com` is cloned in this project.It is based on HTML and Tailwind CSS, this is a fully responsive clone of Paytm.com.
 
  
 
@@ -44,7 +44,7 @@
 # Connect with me
 <img align="left" alt="Github" src="./assets/icons8-github-28.png">&nbsp; [Github](https://github.com/Piyushb790)
 
-<img align="left" alt="Github" src="./assets/icons8-linkedin-28.png"> &nbsp; [Linkdin](hhttps://www.linkedin.com/in/piyush-bhattit06/)
+<img align="left" alt="Github" src="./assets/icons8-linkedin-28.png"> &nbsp; [Linkdin](https://www.linkedin.com/in/piyush-bhattit06/)
 
 <img align="left" alt="Github" width="28px" src="./assets/findcoder.svg"> &nbsp; [Fincoder](https://www.findcoder.io/u/piyushbhatt)
 
