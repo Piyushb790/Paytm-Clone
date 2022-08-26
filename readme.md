@@ -2,27 +2,27 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%234FC3F7) ![](https://img.shields.io/badge/HTML-5-%23FF7043) ![](https://img.shields.io/badge/Responsive-Design-%23B2EBF2)
 
-<br>
+ 
 
 ### Project Description
 `Paytm.com` is cloned in this project.Based on HTML and Tailwind CSS, this is a fully responsive clone of Paytm.com.
 
-<br>
+ 
 
 # Technologies Used
 
 
-<img align="left" alt="HTML5"  src="./Assets/icons8-html-5-28.png" /> `HTML` 
+<img align="left" alt="HTML5" src="./assets/icons8-html-5-28.png" /> `HTML` 
 
 <img align="left" alt="Tailwind CSS" src="./assets/icons8-tailwind-css-28.png"> `Tailwind CSS`
 
-<br>
+ # Deploy Link [Paytm India](https://paytmindia.netlify.app/)
 
 # Key Features
 - Clean User Interface.
 - Mobile-friendly design
 
-<br>
+ 
 
 # What I learnt in this Project?
 
@@ -30,16 +30,16 @@
 - I Learned about the **syntax** of Tailwind.
 - I understand how to make code **short and crisp.**
 
-<br>
+ 
 
 # Preview of the Project.
-[Preview](./assets/preview.png)
+![Preview](./assets/preview.png)
 
-<br>
+ 
 
 # Time Taken to complete this project is 13 hours.
 
-<br>
+ 
 
 # Connect with me
 <img align="left" alt="Github" src="./assets/icons8-github-28.png">&nbsp; [Github](https://github.com/Piyushb790)
